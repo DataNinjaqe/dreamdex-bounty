@@ -1,0 +1,5 @@
+.env
+.env.*
+.bot-key
+*.key
+node_modules/
